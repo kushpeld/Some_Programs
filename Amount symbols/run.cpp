@@ -49,4 +49,5 @@ char right=')';*/
   cout<<"true"<<endl;
   else
   cout<<"false"<<endl;
+  system("pause");
 }
